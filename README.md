@@ -12,7 +12,7 @@ A classic memory game where players must remember and repeat an increasingly com
 
 ## 🎮 Play the Game
 
-[**🕹️ Play Now**](https://srikarmalla.github.io/simon-game)
+[**🕹️ Play Now**](https://github.com/srikarmalla/simon-game/tree/main/simon-game)
 
 
 ## 🛠️ Technologies Used
